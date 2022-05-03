@@ -51,7 +51,7 @@ footer p{
 }
 .image2{
     height: 200px;
-    margin-top: 300px;
+    margin-top: 345px;
     border-radius: 150px;
 }
 .story h2{
@@ -59,12 +59,4 @@ footer p{
     margin-left: 30%;
     margin-top: 100px;
 }
-.story p{
-    color:rgb(0, 0, 0);
-    margin: 0;
-    padding: 0;
-    text-align: center;
-    margin-top: 100px;
 
-
-}
